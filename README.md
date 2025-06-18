@@ -20,7 +20,7 @@ My Github Profile
 
 <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
 
-### My Github Stats
+<!-- ### My Github Stats
 
 [![DeniDwi GitHub stats](https://github-readme-stats.vercel.app/api?username=DeniDwi&show_icons=true&theme=blueberry)
-](https://github.com/anuraghazra/github-readme-stats)
+](https://github.com/anuraghazra/github-readme-stats) -->
